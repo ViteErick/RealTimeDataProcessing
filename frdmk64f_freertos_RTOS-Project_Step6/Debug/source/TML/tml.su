@@ -1,0 +1,16 @@
+fsl_gpio.h:175:20:GPIO_PortSet	16	static
+fsl_gpio.h:186:20:GPIO_PortClear	16	static
+fsl_gpio.h:216:24:GPIO_PinRead	16	static
+tml.c:33:6:PORTC_IRQHandler	16	static
+tml.c:44:17:I2C_WRITE	16	static
+tml.c:53:17:I2C_READ	16	static
+tml.c:62:15:tml_Init	32	static
+tml.c:86:15:tml_DeInit	8	static
+tml.c:92:15:tml_Reset	8	static
+tml.c:100:15:tml_Tx	16	static
+tml.c:113:15:tml_Rx	24	static
+tml.c:137:15:tml_WaitForRx	16	static
+tml.c:142:6:tml_Connect	8	static
+tml.c:147:6:tml_Disconnect	8	static
+tml.c:151:6:tml_Send	24	static
+tml.c:156:6:tml_Receive	24	static
